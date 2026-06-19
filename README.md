@@ -83,10 +83,15 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/whatsapp-chat-analyzer.git
 cd whatsapp-chat-analyzer
+```
 Install dependencies:
+```bash
 pip install -r requirements.txt
+```
 Run the app:
+```bash
 streamlit run app.py
+```
 
 📊 Example Insights You Can Get
 Who is the most active user in the group?
