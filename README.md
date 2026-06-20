@@ -93,19 +93,23 @@ Run the app:
 streamlit run app.py
 ```
 
-📊 Example Insights You Can Get
-Who is the most active user in the group?
-What time is the group most active?
-How does conversation flow over time?
-Which words dominate conversations?
-What emojis are most frequently used?
-🧠 Key Concepts Used
-Data preprocessing & cleaning
-Regex-based text parsing
-Feature engineering
-Exploratory Data Analysis (EDA)
-Data visualization
-Basic NLP techniques
+### 📊 Example Insights You Can Get
+
+- Who is the most active user in the group?
+- What time is the group most active?
+- How does conversation flow over time?
+- Which words dominate conversations?
+- What emojis are most frequently used?
+
+
+### 🧠 Key Concepts Used
+
+- Data preprocessing & cleaning
+- Regex-based text parsing
+- Feature engineering
+- Exploratory Data Analysis (EDA)
+- Data visualization
+- Basic NLP techniques
 
 📸 Screenshots
 
@@ -114,20 +118,22 @@ Basic NLP techniques
 <img width="935" height="416" alt="image" src="https://github.com/user-attachments/assets/1ecadf1e-b291-457e-a6fe-9b7b938929c1" />
 <img width="930" height="424" alt="image" src="https://github.com/user-attachments/assets/646fe77e-d5e0-4e39-9a94-77a7fb75f333" />
 
-🚀 Future Improvements
-Sentiment analysis of messages
-User interaction network graph
-AI-based chat summarization
-Topic modeling (LDA)
-Real-time chat analysis
-Deployment on Streamlit Cloud
-👨‍💻 Author
+### 🚀 Future Improvements
 
+- Sentiment analysis of messages
+- User interaction network graph
+- AI-based chat summarization
+- Topic modeling (LDA)
+- Real-time chat analysis
+- Deployment on Streamlit Cloud
+
+  
+### 👨‍💻 Author
 Habib Rehman Janwiri
 
 Computer Systems Engineering Student
 AI & Machine Learning Enthusiast
 
-📜 License
+### 📜 License
 
 This project is for educational and learning purposes only.
